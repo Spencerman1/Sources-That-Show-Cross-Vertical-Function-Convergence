@@ -1,6 +1,13 @@
-﻿282ECAED3ACFBB27A1B69B27D0930DDA44299D0825A647ED127B7B3957ECBC0A *C:\Users\Spenc\Desktop\All modern tech verticals converged on the same function schema after December 2024\All modern tech verticals converged on the same function schema after December 2024.docx
-2E39CA1F728ED917F0F328E0E81B81A4C12D92FB3E754A155D1EB0A09C488E3C *C:\Users\Spenc\Desktop\All modern tech verticals converged on the same function schema after December 2024\All modern tech verticals converged on the same function schema after December 2024.md
-813E636EF92E1CFEBF47CD5A64CAFAB92BFD4A9EBA10337B0229BB50E0D65406 *C:\Users\Spenc\Desktop\All modern tech verticals converged on the same function schema after December 2024\All modern tech verticals converged on the same function schema after December 2024.pdf
-10ABEB3520CE5E1AEC3E30169A844431BD5C86D8BAF786220C6431FB68DAEA7F *C:\Users\Spenc\Desktop\All modern tech verticals converged on the same function schema after December 2024\hashes.txt
-613786AD521153BA165FDFE9458E318ACF84FA220707E6D0459B75CF858ACD2B *C:\Users\Spenc\Desktop\All modern tech verticals converged on the same function schema after December 2024\Screenshot 2026-01-10 013400.png
-87C3F040167FA0D117DCE4B9CE4D9DD09A18F4A6B51A09A42E47536EFA8D7089 *C:\Users\Spenc\Desktop\All modern tech verticals converged on the same function schema after December 2024\Screenshot 2026-01-10 013425.png
+﻿E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855 *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\hashes.txt
+AF96678C14E39E7B621AAB85CA939D1F2D86141416FCBBAC26D3FD3B3054FB39 *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Screenshot 2026-01-10 012027.png
+E6427A84C4A6DA2EA4B7D8C0BDCDFB579A935EF86EFCB304E1F31B4E1617D46B *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Screenshot 2026-01-10 012052.png
+CDD5547BA37E7061F555483B87C2AC41D9213796CDB4764978C55A404C450807 *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Screenshot_9-1-2026_144236_www.udacity.com.jpeg
+C7F8E72699B09A7B1333AF047A5F8DBF4B05A2940A36C2275FC4B8149A853209 *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Screenshot_9-1-2026_144312_www.upgrad.com.jpeg
+3A04F623DF543A19E4297A43824AF454B03995D0BED1A971929C86AD3FD8F7B8 *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Screenshot_9-1-2026_144355_datasciencedojo.com.jpeg
+3825B1F850CBF5EC7783BA5ED3146226BE5A8F81A6FA0CCEC921C5FDC57EE5BF *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Screenshot_9-1-2026_144413_www.upscend.com.jpeg
+3825B1F850CBF5EC7783BA5ED3146226BE5A8F81A6FA0CCEC921C5FDC57EE5BF *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Screenshot_9-1-2026_144437_www.upscend.com.jpeg
+9C8F8982101C56368328A932CD384F5150A91A3DE94FEF82332AE60E428D55EA *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Screenshot_9-1-2026_144523_appinventiv.com.jpeg
+4C88E1023B1931830294336207167961370239FECEB80EBC61E9BD0AF818A421 *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Screenshot_9-1-2026_144534_www.alliedmarketresearch.com.jpeg
+521A3C52FCE65A3931A14684F7DC69079D2666ED10CE8D926B800ED91E2F3C10 *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Sources Showing Neural Networks Across All Verticals.docx
+E8C0EDDA767BCC44187B1F311B5CCBD6264CBC6D302259E1D60BE0ECE22EBA6D *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Sources Showing Neural Networks Across All Verticals.md
+86691BC58D9C05A0C88FC1E6B2789F3FABC44437FBF141380C2D01B3DABA6744 *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Sources Showing Neural Networks Across All Verticals.pdf
