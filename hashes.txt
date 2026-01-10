@@ -1,9 +1,13 @@
-﻿04C3D3C3101C74435CBEF90EB2EEBAC90C9FC336FAB4648BC2486D56302EED21 *C:\Users\Spenc\Desktop\Sources That Show Cross‑Vertical Function Convergence\2506.01536v2.pdf
-9DEBFF911972AA290E39F0C0522C14C9D6D0A762B321FFF5670857296DED3788 *C:\Users\Spenc\Desktop\Sources That Show Cross‑Vertical Function Convergence\hashes.txt
-24FC611B01B80561DD9DB3AB63A32CC906A1B57016AD7DBD89550F69F4E176B9 *C:\Users\Spenc\Desktop\Sources That Show Cross‑Vertical Function Convergence\Screenshot 2026-01-10 011755.png
-C7F239370486C7D999DB92B6E0B85E778D2AFD84FB00777FA8DC833C6952C304 *C:\Users\Spenc\Desktop\Sources That Show Cross‑Vertical Function Convergence\Screenshot_9-1-2026_151419_www.quantumuting.com.jpeg
-E5B4CEC5C0CF9C4FF348CBE3E78E0E123D09B050FEF21E26169EAC634F1439C2 *C:\Users\Spenc\Desktop\Sources That Show Cross‑Vertical Function Convergence\Screenshot_9-1-2026_151450_www.mckinsey.com.jpeg
-1DA2249A72FC2A48F9BDFB024D0F768ED2769A6F710BF42D834FD6A996E9F201 *C:\Users\Spenc\Desktop\Sources That Show Cross‑Vertical Function Convergence\Screenshot_9-1-2026_151551_www.nature.com.jpeg
-C9A3295B53F91DF83B24D6A249BCF9D2AE5B057B3C7F1E6276C5C8E8D6A94B7C *C:\Users\Spenc\Desktop\Sources That Show Cross‑Vertical Function Convergence\Sources That Show Cross‑Vertical Function Convergence.docx
-722C74B0BB2C7FC6C5C414D52AAE26931880EF5A190B9570AA67AA3A8F15CDCD *C:\Users\Spenc\Desktop\Sources That Show Cross‑Vertical Function Convergence\Sources That Show Cross‑Vertical Function Convergence.md
-55C45ED0508342D90B39F1BB1BAF0AB288B25D3CAAD98A0B25EFC2490DDCC0FC *C:\Users\Spenc\Desktop\Sources That Show Cross‑Vertical Function Convergence\Sources That Show Cross‑Vertical Function Convergence.pdf
+﻿E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855 *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\hashes.txt
+AF96678C14E39E7B621AAB85CA939D1F2D86141416FCBBAC26D3FD3B3054FB39 *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Screenshot 2026-01-10 012027.png
+E6427A84C4A6DA2EA4B7D8C0BDCDFB579A935EF86EFCB304E1F31B4E1617D46B *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Screenshot 2026-01-10 012052.png
+CDD5547BA37E7061F555483B87C2AC41D9213796CDB4764978C55A404C450807 *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Screenshot_9-1-2026_144236_www.udacity.com.jpeg
+C7F8E72699B09A7B1333AF047A5F8DBF4B05A2940A36C2275FC4B8149A853209 *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Screenshot_9-1-2026_144312_www.upgrad.com.jpeg
+3A04F623DF543A19E4297A43824AF454B03995D0BED1A971929C86AD3FD8F7B8 *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Screenshot_9-1-2026_144355_datasciencedojo.com.jpeg
+3825B1F850CBF5EC7783BA5ED3146226BE5A8F81A6FA0CCEC921C5FDC57EE5BF *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Screenshot_9-1-2026_144413_www.upscend.com.jpeg
+3825B1F850CBF5EC7783BA5ED3146226BE5A8F81A6FA0CCEC921C5FDC57EE5BF *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Screenshot_9-1-2026_144437_www.upscend.com.jpeg
+9C8F8982101C56368328A932CD384F5150A91A3DE94FEF82332AE60E428D55EA *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Screenshot_9-1-2026_144523_appinventiv.com.jpeg
+4C88E1023B1931830294336207167961370239FECEB80EBC61E9BD0AF818A421 *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Screenshot_9-1-2026_144534_www.alliedmarketresearch.com.jpeg
+521A3C52FCE65A3931A14684F7DC69079D2666ED10CE8D926B800ED91E2F3C10 *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Sources Showing Neural Networks Across All Verticals.docx
+E8C0EDDA767BCC44187B1F311B5CCBD6264CBC6D302259E1D60BE0ECE22EBA6D *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Sources Showing Neural Networks Across All Verticals.md
+86691BC58D9C05A0C88FC1E6B2789F3FABC44437FBF141380C2D01B3DABA6744 *C:\Users\Spenc\Desktop\Sources Showing Neural Networks Across All Verticals\Sources Showing Neural Networks Across All Verticals.pdf
